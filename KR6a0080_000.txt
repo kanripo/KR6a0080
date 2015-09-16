@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛為首迦長者說業報差別經
+#+DATE: 2015-08-30 19:30:23.223549
+#+PROPERTY: JUAN 0
